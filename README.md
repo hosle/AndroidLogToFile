@@ -1,4 +1,4 @@
-# AndroidSimpleLogToFile
+# AndroidLogToFile
 
 Created by Henry Tan, Sep 20, 2020
 
